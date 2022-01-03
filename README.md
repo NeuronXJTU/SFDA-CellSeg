@@ -1,2 +1,2 @@
-# Cross-Domain-Cell-Segmentation_Unet
+# SFDA-CellSeg
 Code of the paper: Towards Multi-Center Cross-Domain Histopathological Cell Segmentation via Target-Specific Finetuning.
