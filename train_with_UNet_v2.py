@@ -110,7 +110,7 @@ def fast_aji(anno_arr, pred_arr):
     used = np.zeros(shape=(len(ss) - 1), dtype=np.int)
     used[j] = 1
     u += (np.sum(s_areas[1:] * (1 - used)))
-    return 1.0 * c / u + 0.1
+    return 1.0 * c / u
 
 
 def post_processing(pred):
